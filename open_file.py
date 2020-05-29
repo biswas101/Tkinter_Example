@@ -4,7 +4,7 @@ from tkinter.filedialog import askopenfilename
 from tkinter import messagebox
 
 root = Tk()
-root.geometry( "=400x300" )
+root.geometry( "400x300" )
 root.title( "File Opener" )
 text = Text(root)
 
